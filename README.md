@@ -1,10 +1,5 @@
 
 Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**.
-
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
-![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
+![image1](https://github.com/phucle-gin/ecommerce-nextjs/assets/88473384/9d324390-f0a0-4d01-b28c-e84d57d575a0)
+![image2](https://github.com/phucle-gin/ecommerce-nextjs/assets/88473384/52727692-1b74-4972-a3f0-e45f2bb2ac56)
