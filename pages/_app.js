@@ -1,5 +1,6 @@
 import React from 'react';
 import { Toaster } from 'react-hot-toast';
+import Head from 'next/head';
 // import { useEffect } from 'react';
 // import { useRouter } from 'next/router'; // Import useRouter
 import { Layout } from '../components';
@@ -23,6 +24,9 @@ function MyApp({ Component, pageProps }) {
   // }, []);
   return (
     <StateContext>
+      <Head>
+        <link rel="Gizmozle's icon" href="/favicon.png"/>
+      </Head>
       <Layout>
         <Toaster />
         <Component {...pageProps} />
